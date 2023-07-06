@@ -1,8 +1,8 @@
 # Olá!
 
-Meu nome é **Alexandre Nassar de Peder**. Sou professor de *programação* :sunglasses:
+Meu nome é **Gabriel Dos Santos Rodrigues** sou estudante de exatas :sunglasses:
 
-Tenho experiência com as seguintes linguagens de programação e ferramentas:
+Tenho vontade de aprender as seguintes linguagens de programação e ferramentas:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,9 +27,9 @@ Tenho experiência com as seguintes linguagens de programação e ferramentas:
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-Meu inglês é avançado :earth_americas:
+Meu inglês é rasuável :earth_americas:
 Minha língua nativa é o português :brazil:
 
-Meu hobby preferido é tocar piano :musical_keyboard: e gosto de todos os sabores de pizza!
+Meu hobby preferido é jogar volei
 
 Dou-te boas-vindas ao meu GitHub.
